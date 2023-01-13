@@ -42,9 +42,9 @@ CREATE TABLE `tb_karyawan` (
 --
 
 INSERT INTO `tb_karyawan` (`no`, `nik`, `password`, `nama_karyawan`, `jabatan`, `tgl_masuk`, `divisi`) VALUES
-(12, '173000042', '123456', 'mas cherr1', 'Accounting', '2019-04-01', 'Staff'),
+(12, '173000042', '123456', 'alvin', 'Accounting', '2019-04-01', 'Staff'),
 (13, '12345', '1234567s', 'CHERRY', 'programmer', '2023-01-02', 'satu'),
-(14, '12345', '1234567s', 'CHERRY', 'programmer', '2023-01-02', 'satu');
+(14, '12345', '1234567s', 'ajeng', 'programmer', '2023-01-02', 'satu');
 
 --
 -- Indexes for dumped tables
